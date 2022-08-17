@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mughalk/BudgieNote/precache-manifest.0ad5f61306806711e62f0bf28d6c646d.js"
+  "/BudgieNote/precache-manifest.2d3675c264b87c2a5777639378d1269e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/mughalk/BudgieNote/index.html", {
+workbox.routing.registerNavigationRoute("/BudgieNote/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

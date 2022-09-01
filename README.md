@@ -1,6 +1,6 @@
 # budgienote
 
-[![Logo](budgienote.jpg)](https://mughalk.github.io/BudgieNote/)
+[![budgienote](budgienote.jpg)](https://mughalk.github.io/BudgieNote/)
 
 > BudgieNote is a simple note-taking site that features:
 - [x] Toggle dark mode
